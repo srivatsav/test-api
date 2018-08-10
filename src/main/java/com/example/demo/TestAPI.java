@@ -49,12 +49,12 @@ public class TestAPI {
         return finalStock;
     }
     
-    //TODO: (vishal) API for creating a new stock
+    //TODO: (vishal) API for creating a new stock ... @RequestBody
     
     
     
-    //TODO: (vishal) API for updating an existing stock's price.
+    //TODO: (vishal) API for updating an existing stock's price... @RequestBody
     
     
-    //TODO: (vishal) API for deleting an existing stock for a given Id.
+    //TODO: (vishal) API for deleting an existing stock for a given Id... @RequestBody
 }
